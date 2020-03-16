@@ -11,7 +11,7 @@ Instead of delivering in HTML, which is a combination of presentation and data, 
 
 Get started with API Development using PHP along with Ionic Mobile App Development with my new Blog API Widget.
 
-Source Code => https://play.google.com/store/apps/details?id=app.biggidroid.blog
+Demo App => https://play.google.com/store/apps/details?id=app.biggidroid.blog
 
 PHP REST API Sample => https://script.adeleyeayodeji.com/api/…
 
